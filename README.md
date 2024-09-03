@@ -3,7 +3,12 @@ Welcome to my profile!
 Bienvenido a mi perfil!
 Bienvenue sur mon profile!
 
-Page Under Construccion...
+I am passionate about Data Science and Machine Learning, and I am pleased to share my various projects with you. 
+In each project, I strive to describe them in English, Spanish, and French to make them more understandable for everyone.
+I hope you enjoy them!
+
+You can contact me via email: aliocha.terzer@gmail.com and on LinkedIn: https://www.linkedin.com/in/aliocha-terzer/
+
 <!--
 **Ale2611/Ale2611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
